@@ -1,4 +1,4 @@
-# cicd-demo-java-app
+# CI-CD DEMO For Java Application
 Sample Java Application to Implement the CI/CD.
 
 ## CI-CD Action Items
